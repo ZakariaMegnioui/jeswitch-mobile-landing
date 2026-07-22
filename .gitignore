@@ -9,3 +9,8 @@ yarn-error.log
 # editors
 .idea
 .jekyll-cache
+# Local Netlify CLI state
+.netlify/
+
+# Local Netlify CLI state
+.netlify/
